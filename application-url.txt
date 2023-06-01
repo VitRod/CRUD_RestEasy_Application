@@ -1,0 +1,3 @@
+http://localhost:8080/CRUD_RestEasy_Application/restapi/users
+http://localhost:8080/CRUD_RestEasy_Application/restapi/users/100
+http://localhost:8080/CRUD_RestEasy_Application/
